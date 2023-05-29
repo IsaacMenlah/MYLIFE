@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding-top: 0;
+}
+ .navBar{
+     width:50%;
+     height: 20%;
+     background-color:  black;
+ }
